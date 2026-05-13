@@ -38,7 +38,7 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek01454&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhiishek-sharma&theme=tokyonight&hide_border=true)
 
 ---
 
