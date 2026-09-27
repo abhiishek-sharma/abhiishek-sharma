@@ -1,6 +1,6 @@
-<table>
+<table width="100%">
 <tr>
-<td width="62%" valign="middle">
+<td width="620" valign="middle">
 <h1>Abhishek Sharma</h1>
 <p><b>Quality Lead · AI training &amp; evaluation</b><br>
 <a href="https://github.com/Ethara-Ai">Ethara AI</a></p>
@@ -10,7 +10,7 @@
 <a href="mailto:abhisheksharma1404@gmail.com">Email</a>
 </p>
 </td>
-<td width="38%" align="center" valign="middle">
+<td width="380" align="center" valign="middle">
 <a href="https://tenor.com/view/pusheen-animated-pusheen-typing-gif-14765696">
 <img src="https://media1.tenor.com/m/BfprZBD7YqUAAAAC/pusheen-animated-pusheen.gif" width="280" alt="Pusheen typing away on a laptop">
 </a>
