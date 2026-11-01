@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" role="img" aria-label="Pipeline: a real repo change becomes a task with tests, a model attempts it, and the harness scores it">
+<title>Pipeline: a real repo change becomes a task with tests, a model attempts it, and the harness scores it</title>
+<rect x="1" y="1" width="898" height="208" rx="14" fill="#0f1720" stroke="#2a3644"/>
+<line x1="166" y1="92" x2="294" y2="92" stroke="#2a3644" stroke-width="3" stroke-dasharray="6 6"><animate attributeName="stroke-dashoffset" values="12;0" dur="0.8s" repeatCount="indefinite"/></line>
+<path d="M286 86 L294 92 L286 98" stroke="#2a3644" stroke-width="3" fill="none"/>
+<circle r="6" cy="92" cx="166" fill="#7cc4fa"><animate attributeName="cx" values="166;166;294;294" keyTimes="0;0.075;0.2125;1" dur="8.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.075;0.2125;1" dur="8.0s" calcMode="discrete" repeatCount="indefinite"/></circle>
+<line x1="386" y1="92" x2="514" y2="92" stroke="#2a3644" stroke-width="3" stroke-dasharray="6 6"><animate attributeName="stroke-dashoffset" values="12;0" dur="0.8s" repeatCount="indefinite"/></line>
+<path d="M506 86 L514 92 L506 98" stroke="#2a3644" stroke-width="3" fill="none"/>
+<circle r="6" cy="92" cx="386" fill="#f5c26b"><animate attributeName="cx" values="386;386;514;514" keyTimes="0;0.325;0.4625;1" dur="8.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.325;0.4625;1" dur="8.0s" calcMode="discrete" repeatCount="indefinite"/></circle>
+<line x1="606" y1="92" x2="734" y2="92" stroke="#2a3644" stroke-width="3" stroke-dasharray="6 6"><animate attributeName="stroke-dashoffset" values="12;0" dur="0.8s" repeatCount="indefinite"/></line>
+<path d="M726 86 L734 92 L726 98" stroke="#2a3644" stroke-width="3" fill="none"/>
+<circle r="6" cy="92" cx="606" fill="#c3a6ff"><animate attributeName="cx" values="606;606;734;734" keyTimes="0;0.575;0.7125;1" dur="8.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.575;0.7125;1" dur="8.0s" calcMode="discrete" repeatCount="indefinite"/></circle>
+<circle cx="120" cy="92" r="42" fill="#151f2b" stroke="#7cc4fa" stroke-width="2.5"/>
+<circle cx="120" cy="92" r="42" fill="none" stroke="#7cc4fa" stroke-width="2"><animate attributeName="r" values="42;42;60;60" keyTimes="0;0.0063;0.1313;1" dur="8.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0;0" keyTimes="0;0.0063;0.1313;1" dur="8.0s" repeatCount="indefinite"/></circle>
+<text x="120" y="99" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="22" font-weight="700" fill="#7cc4fa">git</text>
+<text x="120" y="162" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#e6edf3">Repo change</text>
+<text x="120" y="184" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8b98a7">a real commit or PR</text>
+<circle cx="340" cy="92" r="42" fill="#151f2b" stroke="#f5c26b" stroke-width="2.5"/>
+<circle cx="340" cy="92" r="42" fill="none" stroke="#f5c26b" stroke-width="2"><animate attributeName="r" values="42;42;60;60" keyTimes="0;0.25;0.375;1" dur="8.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0;0" keyTimes="0;0.25;0.375;1" dur="8.0s" repeatCount="indefinite"/></circle>
+<text x="340" y="99" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="22" font-weight="700" fill="#f5c26b">✎</text>
+<text x="340" y="162" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#e6edf3">Task + tests</text>
+<text x="340" y="184" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8b98a7">issue · fix · fail→pass</text>
+<circle cx="560" cy="92" r="42" fill="#151f2b" stroke="#c3a6ff" stroke-width="2.5"/>
+<circle cx="560" cy="92" r="42" fill="none" stroke="#c3a6ff" stroke-width="2"><animate attributeName="r" values="42;42;60;60" keyTimes="0;0.5;0.625;1" dur="8.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0;0" keyTimes="0;0.5;0.625;1" dur="8.0s" repeatCount="indefinite"/></circle>
+<text x="560" y="99" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="22" font-weight="700" fill="#c3a6ff">AI</text>
+<text x="560" y="162" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#e6edf3">Model attempt</text>
+<text x="560" y="184" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8b98a7">a frontier model tries it</text>
+<circle cx="780" cy="92" r="42" fill="#151f2b" stroke="#7ad49b" stroke-width="2.5"/>
+<circle cx="780" cy="92" r="42" fill="none" stroke="#7ad49b" stroke-width="2"><animate attributeName="r" values="42;42;60;60" keyTimes="0;0.75;0.875;1" dur="8.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0;0" keyTimes="0;0.75;0.875;1" dur="8.0s" repeatCount="indefinite"/></circle>
+<text x="780" y="99" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="22" font-weight="700" fill="#7ad49b">✓</text>
+<text x="780" y="162" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#e6edf3">Harness score</text>
+<text x="780" y="184" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8b98a7">pytest in Docker</text>
+</svg>
