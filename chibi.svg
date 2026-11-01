@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="290" viewBox="0 0 900 290" role="img" aria-label="Chibi Abhishek debugging: the test fails, sweat drop, then it passes and he celebrates">
+<title>Chibi Abhishek debugging: the test fails, sweat drop, then it passes and he celebrates</title>
+<rect x="1" y="1" width="898" height="288" rx="14" fill="#0f1720" stroke="#2a3644"/>
+<rect x="60" y="252" width="430" height="6" rx="3" fill="#2a3644"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="1.6s" repeatCount="indefinite"/>
+<ellipse cx="128" cy="236" rx="24" ry="15" fill="#f5c26b"/><circle cx="142" cy="214" r="13" fill="#f5c26b"/>
+<path d="M153 213 l12 3 l-12 4 z" fill="#f0913a"/><circle cx="146" cy="210" r="2.2" fill="#1d1a2b"/>
+<path d="M110 232 q8 -8 18 -2" stroke="#e0a93f" stroke-width="2" fill="none"/></g>
+<text x="128" y="276" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8b98a7">debug duck</text>
+<path d="M238 252 C240 200 262 178 300 178 C338 178 360 200 362 252 Z" fill="#3b6fb6"/>
+<path d="M286 182 L300 200 L314 182" stroke="#2c568f" stroke-width="3" fill="none"/>
+<g><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.63;1" dur="10.0s" calcMode="discrete" repeatCount="indefinite"/>
+<path d="M250 200 C232 180 222 150 226 128" stroke="#3b6fb6" stroke-width="16" stroke-linecap="round" fill="none"/>
+<path d="M350 200 C368 180 378 150 374 128" stroke="#3b6fb6" stroke-width="16" stroke-linecap="round" fill="none"/>
+<circle cx="226" cy="122" r="10" fill="#f4cba9"/><circle cx="374" cy="122" r="10" fill="#f4cba9"/></g>
+<ellipse cx="300" cy="122" rx="64" ry="60" fill="#f4cba9"/>
+<ellipse cx="264" cy="150" rx="10" ry="5" fill="#f08a8a" opacity=".45"/><ellipse cx="336" cy="150" rx="10" ry="5" fill="#f08a8a" opacity=".45"/>
+<path d="M236 128 C228 72 266 46 304 48 C346 50 376 78 366 130 L356 104 L346 116 L334 92 L322 112 L308 90 L296 112 L282 92 L270 114 L258 98 L248 120 Z" fill="#2a2238"/>
+<path d="M300 50 q10 -16 4 -26 q14 8 6 28" fill="#2a2238"/>
+<g><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.54;0.63;1" dur="10.0s" calcMode="discrete" repeatCount="indefinite"/><ellipse cx="279" cy="134" rx="9" ry="12" fill="#1d1a2b">
+<animate attributeName="ry" values="12;12;1.5;12" keyTimes="0;0.9;0.95;1" dur="3.3s" repeatCount="indefinite"/></ellipse>
+<circle cx="282" cy="129" r="3.2" fill="#fff"/></g>
+<g><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.54;0.63;1" dur="10.0s" calcMode="discrete" repeatCount="indefinite"/><ellipse cx="321" cy="134" rx="9" ry="12" fill="#1d1a2b">
+<animate attributeName="ry" values="12;12;1.5;12" keyTimes="0;0.9;0.95;1" dur="3.3s" repeatCount="indefinite"/></ellipse>
+<circle cx="324" cy="129" r="3.2" fill="#fff"/></g>
+<g><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.63;1" dur="10.0s" calcMode="discrete" repeatCount="indefinite"/><path d="M269 138 q10 -14 20 0" stroke="#1d1a2b" stroke-width="4" stroke-linecap="round" fill="none"/><path d="M311 138 q10 -14 20 0" stroke="#1d1a2b" stroke-width="4" stroke-linecap="round" fill="none"/></g>
+<g><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.54;1" dur="10.0s" calcMode="discrete" repeatCount="indefinite"/><path d="M292 160 q8 -4 16 0" stroke="#1d1a2b" stroke-width="2.5" stroke-linecap="round" fill="none"/></g>
+<g><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.54;0.63;1" dur="10.0s" calcMode="discrete" repeatCount="indefinite"/><ellipse cx="300" cy="161" rx="5" ry="6" fill="#1d1a2b"/></g>
+<g><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.63;1" dur="10.0s" calcMode="discrete" repeatCount="indefinite"/><path d="M288 156 q12 14 24 0 z" fill="#1d1a2b"/><path d="M293 160 q7 5 14 0" fill="#e86b6b"/></g>
+<g><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.1;0.54;1" dur="10.0s" calcMode="discrete" repeatCount="indefinite"/><path d="M372 92 q-9 14 0 20 q9 -6 0 -20 z" fill="#9fd3ff">
+<animateTransform attributeName="transform" type="translate" values="0 0;0 10;0 0" dur="1.4s" repeatCount="indefinite"/></path></g>
+<g><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.54;0.63;1" dur="10.0s" calcMode="discrete" repeatCount="indefinite"/><text x="372" y="70" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="800" fill="#f5c26b">!</text></g>
+<g><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.63;1" dur="10.0s" calcMode="discrete" repeatCount="indefinite"/><path transform="translate(210 80)" d="M0 -10 L2.8000000000000003 -2.8000000000000003 L10 0 L2.8000000000000003 2.8000000000000003 L0 10 L-2.8000000000000003 2.8000000000000003 L-10 0 L-2.8000000000000003 -2.8000000000000003 Z" fill="#f5c26b"><animate attributeName="opacity" values="0.2;1;0.2" dur="0.9s" begin="0s" repeatCount="indefinite"/></path><path transform="translate(392 72)" d="M0 -12 L3.3600000000000003 -3.3600000000000003 L12 0 L3.3600000000000003 3.3600000000000003 L0 12 L-3.3600000000000003 3.3600000000000003 L-12 0 L-3.3600000000000003 -3.3600000000000003 Z" fill="#f5c26b"><animate attributeName="opacity" values="0.2;1;0.2" dur="0.9s" begin="0.3s" repeatCount="indefinite"/></path><path transform="translate(196 170)" d="M0 -7 L1.9600000000000002 -1.9600000000000002 L7 0 L1.9600000000000002 1.9600000000000002 L0 7 L-1.9600000000000002 1.9600000000000002 L-7 0 L-1.9600000000000002 -1.9600000000000002 Z" fill="#f5c26b"><animate attributeName="opacity" values="0.2;1;0.2" dur="0.9s" begin="0.5s" repeatCount="indefinite"/></path><path transform="translate(405 160)" d="M0 -8 L2.24 -2.24 L8 0 L2.24 2.24 L0 8 L-2.24 2.24 L-8 0 L-2.24 -2.24 Z" fill="#f5c26b"><animate attributeName="opacity" values="0.2;1;0.2" dur="0.9s" begin="0.15s" repeatCount="indefinite"/></path><path transform="translate(300 30)" d="M0 -9 L2.5200000000000005 -2.5200000000000005 L9 0 L2.5200000000000005 2.5200000000000005 L0 9 L-2.5200000000000005 2.5200000000000005 L-9 0 L-2.5200000000000005 -2.5200000000000005 Z" fill="#f5c26b"><animate attributeName="opacity" values="0.2;1;0.2" dur="0.9s" begin="0.45s" repeatCount="indefinite"/></path></g>
+<rect x="228" y="190" width="144" height="64" rx="8" fill="#cfd7e1"/>
+<circle cx="300" cy="222" r="11" fill="#9aa6b4"/><circle cx="300" cy="222" r="4" fill="#cfd7e1"/>
+<g transform="rotate(-12 252 206)"><rect x="240" y="199" width="26" height="14" rx="3" fill="#7ad49b"/><text x="253" y="210" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="700" fill="#1d1a2b">pass</text></g>
+<g transform="rotate(10 347 238)"><rect x="334" y="230" width="28" height="15" rx="7" fill="#7cc4fa"/><text x="348" y="241" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="700" fill="#1d1a2b">&lt;/&gt;</text></g>
+<g><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.54;0.63;1" dur="10.0s" calcMode="discrete" repeatCount="indefinite"/><circle cx="268" cy="192" r="10" fill="#f4cba9">
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="0.32s" begin="0.0s" repeatCount="indefinite"/></circle></g>
+<g><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.54;0.63;1" dur="10.0s" calcMode="discrete" repeatCount="indefinite"/><circle cx="332" cy="192" r="10" fill="#f4cba9">
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="0.32s" begin="0.16s" repeatCount="indefinite"/></circle></g>
+<path d="M402 222 h34 l-4 30 h-26 z" fill="#e8dccb"/><path d="M436 228 q12 2 0 14" stroke="#e8dccb" stroke-width="4" fill="none"/>
+<rect x="404" y="224" width="30" height="6" fill="#b07a4a"/>
+<text x="419" y="276" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8b98a7">chai</text>
+<path d="M410 214 q-6 -8 0 -16 q6 -8 0 -16" stroke="#8b98a7" stroke-width="2" fill="none" stroke-linecap="round" opacity="0">
+<animate attributeName="opacity" values="0;.7;0" dur="2.4s" begin="0.0s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="0 4;0 -10" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></path>
+<path d="M420 214 q-6 -8 0 -16 q6 -8 0 -16" stroke="#8b98a7" stroke-width="2" fill="none" stroke-linecap="round" opacity="0">
+<animate attributeName="opacity" values="0;.7;0" dur="2.4s" begin="0.8s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="0 4;0 -10" dur="2.4s" begin="0.8s" repeatCount="indefinite"/></path>
+<path d="M430 214 q-6 -8 0 -16 q6 -8 0 -16" stroke="#8b98a7" stroke-width="2" fill="none" stroke-linecap="round" opacity="0">
+<animate attributeName="opacity" values="0;.7;0" dur="2.4s" begin="1.6s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="0 4;0 -10" dur="2.4s" begin="1.6s" repeatCount="indefinite"/></path>
+<rect x="500" y="40" width="360" height="64" rx="16" fill="#e6edf3"/><path d="M500 80 l-26 14 l30 -2 z" fill="#e6edf3"/>
+<g><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.54;1" dur="10.0s" calcMode="discrete" repeatCount="indefinite"/><text x="680.0" y="80" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#1d1a2b">but it works on my machine…</text></g>
+<g><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.54;0.63;1" dur="10.0s" calcMode="discrete" repeatCount="indefinite"/><text x="680.0" y="80" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#1d1a2b">wait. found it!</text></g>
+<g><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.63;1" dur="10.0s" calcMode="discrete" repeatCount="indefinite"/><text x="680.0" y="80" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#1d1a2b">tests green. ship it ✨</text></g>
+<rect x="500" y="130" width="360" height="120" rx="10" fill="#151f2b" stroke="#2a3644"/>
+<circle cx="520" cy="147" r="5" fill="#f2777a" opacity=".8"/>
+<circle cx="536" cy="147" r="5" fill="#f5c26b" opacity=".8"/>
+<circle cx="552" cy="147" r="5" fill="#7ad49b" opacity=".8"/>
+<text x="518" y="186" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#e6edf3">$ pytest tests/</text>
+<g><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.54;0.63;1" dur="10.0s" calcMode="discrete" repeatCount="indefinite"/><text x="518" y="216" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="700" fill="#f2777a">✗ 1 failed</text><text x="518" y="236" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8b98a7">AssertionError: expected 42, got 41</text></g>
+<g><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.63;1" dur="10.0s" calcMode="discrete" repeatCount="indefinite"/><text x="518" y="216" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="700" fill="#7ad49b">✓ 12 passed</text><text x="518" y="236" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8b98a7">in 0.42s</text></g>
+</svg>
