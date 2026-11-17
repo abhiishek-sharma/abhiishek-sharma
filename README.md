@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Abhishek Sharma: turning real repo changes into AI coding tasks, evaluation harnesses, SWE-bench, SWE-Smith, ARC-AGI, WooCommerce contributor">
+  <img src="./assets/header.svg" width="100%" alt="Abhishek Sharma: AI engineer — evaluation harnesses, LLM pipelines, SWE-bench, SWE-Smith, ARC-AGI">
 </p>
 
-Software engineer based in Noida, working in Gurugram, India. I build **benchmark tasks and evaluation harnesses for training LLMs**, and review which tasks are correct, fair and hard enough to ship.
+Software engineer based in Noida, working in Gurugram, India. I build **evaluation harnesses and LLM pipelines** — turning real repository changes into benchmark tasks, scoring model outputs, and shipping tools that work without a paid API.
 
-I like work where the hard part is judgment: finding the real change in a repository, writing a task around it that a model can't shortcut, and proving the answer with tests.
+I like work where the hard part is judgment: deciding what a correct answer looks like, writing tests that prove it, and making sure the whole thing runs the same way in CI as it does locally.
 
 ---
 
@@ -14,11 +14,11 @@ I like work where the hard part is judgment: finding the real change in a reposi
 
 - **AI coding tasks.** I turn real repository changes into SWE-bench / SWE-Smith-style tasks: a clear problem statement, a reference fix, and tests that fail before the fix and pass after it.
 - **Reasoning benchmarks.** I've worked on ARC-AGI abstract-reasoning tasks alongside the coding benchmarks.
-- **Evaluation harnesses.** I've built harnesses across multiple projects that run and score tasks against models automatically, using pytest, Docker and GitHub Actions.
+- **Evaluation harnesses.** I've built harnesses that run and score tasks against models automatically, using pytest, Docker and GitHub Actions.
 
 ### Open source
 
-- **[WooCommerce](https://github.com/woocommerce/woocommerce)**: I contribute pull requests and issue reports. [See my pull requests →](https://github.com/woocommerce/woocommerce/pulls?q=author%3Aabhiishek-sharma)
+- **[WooCommerce](https://github.com/woocommerce/woocommerce)**: pull requests and issue reports. [See my PRs →](https://github.com/woocommerce/woocommerce/pulls?q=author%3Aabhiishek-sharma)
 
 ### A day at the desk
 
@@ -28,12 +28,13 @@ I like work where the hard part is judgment: finding the real change in a reposi
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Aspiron Systems](https://aspironsystems.com)** | Production website for an SAP training and consulting company (~3,200 monthly visitors). I built it end to end and ship ongoing features and fixes. | Next.js, React, TypeScript, Tailwind CSS |
-| **QueryForge** | Natural-language-to-SQL pipeline with schema-aware prompts, plus a validation layer that blocks unsafe queries (DROP, DELETE, injection patterns) and auto-fixes wrong table and column names in model-written SQL. | Python, FastAPI, Ollama, SQLCoder, sqlparse, React |
+| **[QueryForge](https://github.com/abhiishek-sharma/QueryForge)** | Upload a CSV or SQLite file, ask a question in plain English, get SQL and results. Local model only — no API key. 16/16 eval cases correct on `qwen2.5-coder:7b` (filter, aggregation, join, ambiguous, unanswerable). Five-layer read-only SQLite enforcement, each layer covered by its own test. | Python, FastAPI, React, Ollama, sqlparse |
+| **[Automation Auditor](https://github.com/abhiishek-sharma/automation-auditor)** | CLI that detects automation jobs that exit 0 but produce the wrong outcome — wrong file, duplicate inserts, partial batch, stale output, swallowed exception. 10/10 synthetic scenarios correct, 0 false alerts. Verdict is always deterministic; LLM adds an optional plain-English explanation. | Python, Ollama (optional) |
+| **[Aspiron Systems](https://aspironsystems.com)** | Production website for an SAP training and consulting company (~3,200 monthly visitors). Built end to end, shipping ongoing features and fixes. | Next.js, React, TypeScript, Tailwind CSS |
 
 ### Tools I use
 
-<p align="center"><img src="./assets/stack.svg" width="100%" alt="Tools: Python, TypeScript, JavaScript, SQL, pytest, Docker, GitHub Actions, Next.js, React, Node.js, FastAPI, Tailwind CSS, SWE-bench, SWE-Smith, ARC-AGI"></p>
+<p align="center"><img src="./assets/stack.svg" width="100%" alt="Tools: Python, TypeScript, JavaScript, SQL, pytest, Docker, GitHub Actions, Next.js, React, FastAPI, Tailwind CSS, Ollama, SWE-bench, SWE-Smith, ARC-AGI"></p>
 
 ### Elsewhere
 
