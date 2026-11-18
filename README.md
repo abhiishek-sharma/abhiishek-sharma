@@ -2,7 +2,7 @@
   <img src="./assets/header.svg" width="100%" alt="Abhishek Sharma: software engineer, applied AI: research partnership, evaluation harnesses, agentic jobs, post-training data, production Next.js">
 </p>
 
-Software engineer in applied AI, based in Noida and working in Gurugram, India. I work directly with an external research engineer on frontier-model post-training: finding where models fail, building the **evaluation harnesses and agentic job infrastructure** to measure it, and producing verified data for targeted post-training. I also ship production software and tools that run without a paid API.
+Software engineer in applied AI, based in Noida and working in Gurugram, India. I work directly with an external research engineer on frontier-model post-training: finding where models fail, building the **evaluation harnesses and agentic job infrastructure** to measure it, and producing verified data for targeted post-training. 
 
 Currently targeting **Forward Deployed Engineer** and **Generative AI** roles.
 
